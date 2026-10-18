@@ -1,4 +1,4 @@
-# Generalising_CausalInference
+# Generalising Causal Inference
 
 Demo code for some classical methods for Generalising average treatment effects (ATE) in Causal Inference
 1. G-computation estimator
